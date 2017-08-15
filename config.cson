@@ -1,0 +1,22 @@
+"*":
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "PT Mono"
+    invisibles: {}
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "3a63a059-5290-7573-090f-92e00d5ec2ce"
+  "linter-ui-default":
+    panelHeight: 96
+  "prettier-atom":
+    formatOnSaveOptions: {}
+    prettierOptions:
+      semi: false
+      singleQuote: true
+  "tree-view":
+    autoReveal: true
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false

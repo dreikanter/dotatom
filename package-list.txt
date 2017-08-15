@@ -1,0 +1,17 @@
+advanced-open-file@0.16.6
+busy-signal@1.4.3
+editorconfig@2.2.2
+emmet@2.4.3
+intentions@1.1.5
+language-babel@2.70.2
+linter@2.2.0
+linter-csslint@1.3.4
+linter-eslint@8.2.1
+linter-sass-lint@1.7.4
+linter-ui-default@1.6.4
+lipsum@0.1.0
+lorem@1.2.1
+lorem-gibson@2.1.0
+prettier-atom@0.37.0
+show-in-system@0.4.0
+trailing-spaces@0.4.0
