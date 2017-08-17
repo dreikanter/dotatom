@@ -15,6 +15,11 @@
     prettierOptions:
       semi: false
       singleQuote: true
+  tasks:
+    archiveSeparator: "---"
+    baseMarker: "[ ]"
+    cancelledMarker: "[-]"
+    completeMarker: "[x]"
   "tree-view":
     autoReveal: true
     hideIgnoredNames: true
