@@ -33,3 +33,15 @@
 
 'atom-workspace atom-text-editor:not(.mini)':
   'ctrl-d': 'toggle-markdown-task:toggle'
+
+'.platform-darwin atom-workspace atom-text-editor:not(.mini)[data-grammar~="todo"]':
+  'cmd-enter': 'tasks:add'
+  'cmd-shift-enter': 'tasks:add-above'
+  'cmd-d': 'tasks:complete'
+  'cmd-shift-a': 'tasks:archive'
+  'ctrl-c': 'tasks:cancel'
+  'cmd-shift-l': 'tasks:convert-to-task'
+  'ctrl-s': 'tasks:set-timestamp'
+
+'atom-text-editor':
+  'cmd-ctrl-\\': 'editor:toggle-soft-wrap'
